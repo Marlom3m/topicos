@@ -5,7 +5,7 @@
 	$marca = isset($_POST["marc"]) ? strip_tags($_POST["marc"]) : "";
 	//Indica dificuldade
 	$dificuldade = isset($_POST["difc"]) ? strip_tags($_POST["difc"]) : "";
-	
+	eerererere
 	
 	//classe para trabalhar o minimax
 class MiniMax{
