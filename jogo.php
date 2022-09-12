@@ -8,7 +8,7 @@
 	}
 ?>
 
-<html>
+daniel passou aqui
 
 <head>
 	<title>Jogo da Terceira Idade MinMax</title>
